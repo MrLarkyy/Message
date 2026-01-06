@@ -18,7 +18,7 @@ repositories {
 
 dependencies {
     implementation("gg.aquatic.replace:replace:1.0.0")
-    implementation("gg.aquatic.execute:Execute:1.0.1")
+    implementation("gg.aquatic.execute:Execute:26.0.1")
     paperweight.paperDevBundle("1.21.10-R0.1-SNAPSHOT")
 }
 
